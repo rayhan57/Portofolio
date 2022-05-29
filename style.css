@@ -77,16 +77,12 @@ li {
   width: 200px;
   margin-top: 5rem;
 }
-.icon {
-  margin-left: 3rem;
-}
 i {
   font-size: 25px;
   color: white;
 }
-/* Warna #F7AF56 */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 992px) {
   h1 {
     width: 300px;
     font-size: 50px;
@@ -138,8 +134,5 @@ i {
   }
   .logo {
     width: 200px;
-  }
-  .icon {
-    padding-left: 6rem;
   }
 }
